@@ -1,0 +1,15 @@
+superuser.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-600.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
+stackoverflow.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-600.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
+tecadmin.net##.cc-color-override-1827372716.cc-right.cc-bottom.cc-theme-classic.cc-type-info.cc-floating.cc-window
+askubuntu.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-600.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
+www.amazon.it###sp-cc
+||accounts.google.com/gsi/iframe/select?client_id=705819728788-b2c1kcs7tst3b7ghv7at0hkqmtc68ckl.apps.googleusercontent.com&auto_select=true&ux_mode=popup&ui_mode=card&as=ubegIvKFmPuDT3iSxQxDKg&is_itp=true&channel_id=8944b79fe04f17ae5595c9c682ec9ab7420c8456116ed0ff6719868eb76be4d1&origin=https%3A%2F%2Fwww.reddit.com$subdocument
+www.tuttomercatoweb.com###tccCmpAlert > div
+www.tuttomercatoweb.com###tccCmpAlert
+it.uefa.com##.has-reject-all-button.ot-sdk-columns.ot-sdk-three
+it.uefa.com##.ot-sdk-row > .ot-sdk-columns.ot-sdk-eight
+www.uefa.com##.has-reject-all-button.ot-sdk-columns.ot-sdk-three
+www.uefa.com##.ot-sdk-container > .ot-sdk-row
+singletickets.acmilan.com##.ot-sdk-columns.ot-sdk-eight
+www.acmilan.com##.ot-sdk-container > .ot-sdk-row
+||cdn.privacy-mgmt.com/index.html?message_id=953827&consentUUID=undefined&preload_message=true&hasCsp=true&version=v1&consent_origin=https%3A%2F%2Fcdn.privacy-mgmt.com%2Fconsent%2Ftcfv2&mms_origin=https%3A%2F%2Fcdn.privacy-mgmt.com%2Fmms%2Fv2$subdocument
